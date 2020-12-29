@@ -6,7 +6,7 @@ public class TestaCurso {
         Curso javaColecoes = new Curso("Domininando as coleções do Java", "Paulo Silveira");
         javaColecoes.adiciona(new Aula("Trabalhando com ArrayList",21));
         javaColecoes.adiciona(new Aula("Criando uma aula",20));
-        javaColecoes.adiciona(new Aula("Modelando com coleções",22));
+        javaColecoes.adiciona(new Aula("Modelando com ccoleções",22));
         System.out.println(javaColecoes.getAulas());
     }
 }
